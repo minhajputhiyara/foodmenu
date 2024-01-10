@@ -823,5 +823,5 @@ section {
 .delivery-icon, .contact-icon {
   font-size: 2rem; /* Adjust the size as needed */
   margin-bottom: 0.5rem; /* Add spacing between icon and text */
-  color: red; /* Set the color to red */
+  color: #c8300e; /* Set the color to red */
 }

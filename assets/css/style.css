@@ -436,7 +436,7 @@ section {
 }
 
 .section-bg {
-  background-image: url(../images/bckcomp.jpg);
+  background-image: url(../images/chilliesbg.png);
   background-size: contain;
   background-repeat: repeat;
   background-position: center; 
@@ -818,4 +818,10 @@ section {
   text-align: center;
   font-size: 13px;
   color: #fff;
+}
+
+.delivery-icon, .contact-icon {
+  font-size: 2rem; /* Adjust the size as needed */
+  margin-bottom: 0.5rem; /* Add spacing between icon and text */
+  color: red; /* Set the color to red */
 }

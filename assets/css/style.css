@@ -1,5 +1,5 @@
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'EB Garamond',serif;
   background: #0c0b09;
   color: #fff
 }
@@ -473,7 +473,7 @@ section {
   margin: 0;
   font-size: 36px;
   font-weight: 700;
-  font-family: "Roboto", sans-serif;
+  font-family: 'DM Serif Display', serif;
   color: #c8300e;
 }
 
@@ -499,7 +499,7 @@ section {
   margin-bottom: 10px;
   transition: all ease-in-out 0.3s;
   border-radius: 50px;
-  font-family: "Roboto", sans-serif;
+  font-family:'EB Garamond',serif;
 }
 
 .menu #menu-flters li:hover, .menu #menu-flters li.filter-active {
@@ -545,7 +545,7 @@ section {
   /* background: #1a1814; */
   position: relative;
   z-index: 3;
-  font-weight: 700;
+  font-weight: 100;
   color: black;
   transition: 0.3s;
 }
@@ -559,7 +559,7 @@ section {
   position: relative;
   z-index: 3;
   padding: 0 10px;
-  font-weight: 600;
+  font-weight: 100;
   color: #c52028;
 }
 
